@@ -1,0 +1,34 @@
+[
+    {
+        "productId": "A123",
+        "title": "Bawal Shawl",
+        "desc": "Showl Stylish",
+        "price": "89000",
+        "rating": "4.5",
+        "imageUrl": "https://d2kchovjbwl1tk.cloudfront.net/vendor/19/product/Taupe_1673339308531.jpeg"
+    },
+    {
+        "productId": "B12",
+        "title": "Mega Inner Shawl - Choco",
+        "desc": "Showl Cantik untukk si cantik",
+        "price": "99000",
+        "rating": "4.5",
+        "imageUrl": "https://d2kchovjbwl1tk.cloudfront.net/vendor/19/product/Choco_1676777967053.jpeg"
+    },
+    {
+        "productId": "C13",
+        "title": "Sonya Crop Tee - Black",
+        "desc": "Crop Tee Cantik",
+        "price": "179000",
+        "rating": "4.5",
+        "imageUrl": "https://d2kchovjbwl1tk.cloudfront.net/vendor/19/product/IMG_9686_1672978639601.jpg"
+    },
+    {
+        "productId": "D14",
+        "title": "Nuuna Sweater - Denim",
+        "desc": "Bahan Cotton Premium kaak",
+        "price": "249000",
+        "rating": "5",
+        "imageUrl": "https://d2kchovjbwl1tk.cloudfront.net/vendor/19/product/Denim_1678947428356.jpeg"
+    }
+]

@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    width: 200px;
+    height: 350px;
+    border-radius: 2%;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.container:hover {
+    cursor: pointer;
+}
+
+.imgcontainer {
+    width: 100%;
+    height: 160px;
+    box-sizing: border-box;
+    background-position: center center;
+    background-repeat: no-repeat;
+    overflow: hidden;   
+}
+
+.contentrow {
+    display: flex;
+    flex-direction: column;
+    padding: 0.3em;
+}
+
+.contentrow p {
+    margin: 0;
+}

@@ -1,0 +1,14 @@
+[
+    {   
+    "userId": "abaca321",
+    "name": "Febrian Pratama",
+    "email": "email1@gmail.com",
+    "password": "123abc"
+    },
+    {   
+    "userId": "abaca3213",
+    "name": "Rinda Safitri",
+    "email": "email2@gmail.com",
+    "password": "123abc"
+    }
+]

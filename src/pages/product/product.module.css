@@ -1,0 +1,19 @@
+.productDetails {
+    display: flex;
+    flex-direction: row;
+    gap: 1em
+}
+
+.productDetails img {
+    width: 600px;
+    height: auto;
+}
+
+.descriptionSection {
+    display:flex;
+    flex-direction: column;
+}
+
+.descriptionSection span {
+    margin: 1em 0 1em 0;
+}
