@@ -27,7 +27,7 @@ Go click one of those products and it will redirect you to the Product Details P
 
 I have also created a login feature, 
 
-Go to [http://localhost:3000/login] and input the email and password. 
+Go to [http://localhost:3000/login](http://localhost:3000/login) and input the email and password. 
 
 The correct emails and passwords are : 
 
